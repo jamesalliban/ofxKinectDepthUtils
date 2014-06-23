@@ -7,7 +7,4 @@ Features includes - depthmap smoothing, normal map creation, x/y flipping and fa
 
 TODO:
 -----
-Tidy up
-Example project
-Hole filler
-Threaded vertex->pixel encoding
+Tidy up, create example project, hole filler, threaded vertex->pixel encoding
